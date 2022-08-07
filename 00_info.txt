@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-theory
-=======
-terminal
->>>>>>> 01_terminal
-=======
-postman
->>>>>>> 02_postman
